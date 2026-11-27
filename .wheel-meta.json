@@ -1,0 +1,22 @@
+{
+  "wheel_id": 985,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-108",
+  "project": "kitchen-renovations-perth-red-flags-b388df875433dcc77403dadd848",
+  "parent_t1_ref": "kitchenrenovationperth-156",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "kitchen renovations perth red flags",
+  "intended_url": "https://sitesau.github.io/kitchenrenovationperth-108/",
+  "tier": "T2",
+  "writeback_nonce": "9fabb9f7e4d3fe62",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-perth-beginner-guide-bcd733f58b99fa4f521b8b/",
+      "anchor": "https://aumedia.neocities.org/kitchen-renovations-perth-beginner-guide-bcd733f58b99fa4f521b8b/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
